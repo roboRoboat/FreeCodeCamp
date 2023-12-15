@@ -1,0 +1,14 @@
+C:\Users\Christopher\DEV\Repos\FreeCodeCamp\C# Cert\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.exe
+C:\Users\Christopher\DEV\Repos\FreeCodeCamp\C# Cert\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.deps.json
+C:\Users\Christopher\DEV\Repos\FreeCodeCamp\C# Cert\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.runtimeconfig.json
+C:\Users\Christopher\DEV\Repos\FreeCodeCamp\C# Cert\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.dll
+C:\Users\Christopher\DEV\Repos\FreeCodeCamp\C# Cert\CsharpProjects\TestProject\bin\Debug\net8.0\TestProject.pdb
+C:\Users\Christopher\DEV\Repos\FreeCodeCamp\C# Cert\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Christopher\DEV\Repos\FreeCodeCamp\C# Cert\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfoInputs.cache
+C:\Users\Christopher\DEV\Repos\FreeCodeCamp\C# Cert\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.AssemblyInfo.cs
+C:\Users\Christopher\DEV\Repos\FreeCodeCamp\C# Cert\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.csproj.CoreCompileInputs.cache
+C:\Users\Christopher\DEV\Repos\FreeCodeCamp\C# Cert\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.dll
+C:\Users\Christopher\DEV\Repos\FreeCodeCamp\C# Cert\CsharpProjects\TestProject\obj\Debug\net8.0\refint\TestProject.dll
+C:\Users\Christopher\DEV\Repos\FreeCodeCamp\C# Cert\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
+C:\Users\Christopher\DEV\Repos\FreeCodeCamp\C# Cert\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
+C:\Users\Christopher\DEV\Repos\FreeCodeCamp\C# Cert\CsharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll
