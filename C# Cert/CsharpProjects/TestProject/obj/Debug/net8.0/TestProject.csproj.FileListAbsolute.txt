@@ -12,3 +12,4 @@ C:\Users\Christopher\DEV\Repos\FreeCodeCamp\C# Cert\CsharpProjects\TestProject\o
 C:\Users\Christopher\DEV\Repos\FreeCodeCamp\C# Cert\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.pdb
 C:\Users\Christopher\DEV\Repos\FreeCodeCamp\C# Cert\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.genruntimeconfig.cache
 C:\Users\Christopher\DEV\Repos\FreeCodeCamp\C# Cert\CsharpProjects\TestProject\obj\Debug\net8.0\ref\TestProject.dll
+C:\Users\christopher\DEV\Repos\FreeCodeCamp\C# Cert\CsharpProjects\TestProject\obj\Debug\net8.0\TestProject.sourcelink.json
