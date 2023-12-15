@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, C#!");
+﻿Random dice = new();
+int roll = dice.Next();
+Console.WriteLine(roll);
