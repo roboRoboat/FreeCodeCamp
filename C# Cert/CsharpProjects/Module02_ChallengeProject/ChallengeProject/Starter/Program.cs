@@ -64,7 +64,6 @@ foreach (string name in studentNames)
 
     // initialize/reset score sums
     int sumExamScores = 0;
-
     int sumExtraCreditScores = 0;
 
     int sumAssignmentScores = 0;
