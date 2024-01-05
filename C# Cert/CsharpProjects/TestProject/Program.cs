@@ -1,57 +1,21 @@
-﻿// SKU = Stock Keeping Unit.
-// SKU value format <product #>-<2-letter color code>-<size code>
-string sku = "01-MN-L";
+﻿// Fizz Buzz program
+// Output values 1-100, one number per line, inside code block of iteration statment
+//      If current value divisible by 3, print "Fizz" next to the number. 
+//      "                        " by 5, print "Buzz" 
+//      "                        " by both, print "FizzBuzz"
 
-string[] product = sku.Split('-');
-
-string type = "";
-string color = "";
-string size = "";
-
-switch (product[0])
+for (int i = 1; i <= 100; i++)
 {
-    case "01":
-        type = "Sweat Shirt";
-        break;
-    case "02":
-        type = "t-shirt";
-        break;
-    case "03":
-        type = "Sweat pants";
-        break;
-    default:
-        type = "Other";
-        break;
+    string fizzBuzz = "";
+    if (i % 3 == 0)
+    {
+        if (i % 5 == 0) fizzBuzz = " - FizzBuzz";
+        else fizzBuzz = " - Fizz";
+    }
+    if (i % 5 == 0)
+    {
+        fizzBuzz = " - Buzz";
+    }
+
+    Console.WriteLine($"{i}{fizzBuzz}");
 }
-
-switch (product[1])
-{
-    case "BL":
-        color = "Black";
-        break;
-    case "MN":
-        color = "Maroon";
-        break;
-    default:
-        color = "White";
-        break;
-}
-
-switch (product[2])
-{
-    case "S":
-        size = "Small";
-        break;
-    case "M":
-        size = "Medium";
-        break;
-    case "L":
-        size = "Large";
-        break;
-    default:
-        size = "One Size Fits All";
-        break;
-}
-
-
-Console.WriteLine($"Product: {size} {color} {type}");
